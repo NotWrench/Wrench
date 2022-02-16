@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on [GreenTree](https://greentree.cf)
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on Coding and helping.
 - 📫 How to reach me: Wrench#2006 is my tag in discord feel free to dm me. Or join Greentree Discord server to talk with the me and my other team mates.
